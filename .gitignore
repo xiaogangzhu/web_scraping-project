@@ -2,3 +2,5 @@
 *.ipynb_checkpoints/
 #ignore .csv file
 *.csv
+#ignore .png file
+*.png
